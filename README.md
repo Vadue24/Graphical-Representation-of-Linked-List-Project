@@ -1,6 +1,6 @@
 This is the project which i developed in team with my groupmate last semester.
 
-Data Structures Visualizer: Linked Lists
+Data Structures Visualizer: Linked Lists 
 A high-performance, interactive educational tool built in C++ using the SFML library. This project provides a step-by-step visual representation of how different types of linked lists function, making it easier for students and developers to understand memory management and pointer logic.
 
 🚀 Overview
