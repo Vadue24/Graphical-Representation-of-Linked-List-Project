@@ -3,7 +3,7 @@
  *  Project  : Graphical Representation of Linked List
  *  Library  : SFML (Simple and Fast Multimedia Library)
  * ============================================================
- *  Author   : Abdullo Kamoliddinov
+ *  Author   : Abdullo Kamoliddinov and Aziz Daurov
  *  Roll No  : 4218682
  *  Subject  : Data Structures II
  * ============================================================
